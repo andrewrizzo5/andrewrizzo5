@@ -1,2 +1,2 @@
 # Read Me
-This is a quick demo app
+Module 1 HW can be found on the main branch of this repository
