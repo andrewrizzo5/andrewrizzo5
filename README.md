@@ -1,2 +1,2 @@
-# quickdemoapp
+# arassignments
 This is a quick demo app
